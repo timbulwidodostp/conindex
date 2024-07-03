@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p conindex Estimation of concentration indices (concentration index) wagstaff And erreygers Use conindex With STATA 18
