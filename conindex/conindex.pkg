@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'conindex': Estimation of concentration indices (concentration index) wagstaff And erreygers Use conindex With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f conindex.ado
+f conindex.sthlp
