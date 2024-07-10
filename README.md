@@ -1,6 +1,8 @@
 # conindex
 Estimation of concentration indices (concentration index) wagstaff And erreygers Use conindex With STATA 18
 
+https://www.youtube.com/watch?v=7HUK2qN1_vM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
